@@ -402,9 +402,6 @@ class Template(object):
                 'updateExisting': True,
                 'deleteMissing': True
             },
-            'templateLinkage': {
-                'createMissing': True
-            },
             'triggers': {
                 'createMissing': True,
                 'updateExisting': True,
